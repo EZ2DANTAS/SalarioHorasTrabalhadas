@@ -1,0 +1,15 @@
+C:\projetos\Pojeto\Pojeto\bin\Debug\net6.0\Pojeto.exe
+C:\projetos\Pojeto\Pojeto\bin\Debug\net6.0\Pojeto.deps.json
+C:\projetos\Pojeto\Pojeto\bin\Debug\net6.0\Pojeto.runtimeconfig.json
+C:\projetos\Pojeto\Pojeto\bin\Debug\net6.0\Pojeto.dll
+C:\projetos\Pojeto\Pojeto\bin\Debug\net6.0\Pojeto.pdb
+C:\projetos\Pojeto\Pojeto\obj\Debug\net6.0\Pojeto.csproj.AssemblyReference.cache
+C:\projetos\Pojeto\Pojeto\obj\Debug\net6.0\Pojeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Pojeto\Pojeto\obj\Debug\net6.0\Pojeto.AssemblyInfoInputs.cache
+C:\projetos\Pojeto\Pojeto\obj\Debug\net6.0\Pojeto.AssemblyInfo.cs
+C:\projetos\Pojeto\Pojeto\obj\Debug\net6.0\Pojeto.csproj.CoreCompileInputs.cache
+C:\projetos\Pojeto\Pojeto\obj\Debug\net6.0\Pojeto.dll
+C:\projetos\Pojeto\Pojeto\obj\Debug\net6.0\refint\Pojeto.dll
+C:\projetos\Pojeto\Pojeto\obj\Debug\net6.0\Pojeto.pdb
+C:\projetos\Pojeto\Pojeto\obj\Debug\net6.0\Pojeto.genruntimeconfig.cache
+C:\projetos\Pojeto\Pojeto\obj\Debug\net6.0\ref\Pojeto.dll
